@@ -1,0 +1,10 @@
+Atoms for GLU 24 (Chain A):
+Atom: N    | Coordinates (x, y, z): [33.548 21.526 16.95 ]
+Atom: CA   | Coordinates (x, y, z): [35.031 21.722 17.069]
+Atom: C    | Coordinates (x, y, z): [35.615 22.19  15.759]
+Atom: O    | Coordinates (x, y, z): [36.532 23.046 15.724]
+Atom: CB   | Coordinates (x, y, z): [35.667 20.383 17.447]
+Atom: CG   | Coordinates (x, y, z): [37.128 20.293 17.872]
+Atom: CD   | Coordinates (x, y, z): [37.561 18.851 18.082]
+Atom: OE1  | Coordinates (x, y, z): [37.758 18.024 17.195]
+Atom: OE2  | Coordinates (x, y, z): [37.628 18.599 19.313]

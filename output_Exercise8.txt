@@ -1,0 +1,5 @@
+Connecting to PDB servers to download: 1UBQ
+Downloading PDB structure '1ubq'...
+
+Structure 1UBQ successfully loaded.
+Total atoms in the structure: 660

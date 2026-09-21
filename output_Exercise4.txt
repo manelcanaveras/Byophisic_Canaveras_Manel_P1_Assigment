@@ -1,0 +1,10 @@
+Searching CA atoms for residue type: GLU
+
+Chain A | Residue: GLU 16  | CA Coordinates: [31.22  27.341  4.275]
+Chain A | Residue: GLU 18  | CA Coordinates: [28.468 20.94   5.98 ]
+Chain A | Residue: GLU 24  | CA Coordinates: [35.031 21.722 17.069]
+Chain A | Residue: GLU 34  | CA Coordinates: [39.676 35.547 12.072]
+Chain A | Residue: GLU 51  | CA Coordinates: [29.015 21.657 22.288]
+Chain A | Residue: GLU 64  | CA Coordinates: [21.907 30.563  5.881]
+
+Total GLU residues found: 6

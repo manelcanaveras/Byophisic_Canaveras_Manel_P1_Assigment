@@ -1,0 +1,330 @@
+MET 1   (N  ) -- VAL 17  (O  ) : 2.56 A
+MET 1   (N  ) -- HOH 98  (O  ) : 3.02 A
+MET 1   (N  ) -- HOH 110 (O  ) : 2.37 A
+MET 1   (O  ) -- GLN 2   (N  ) : 2.26 A
+MET 1   (O  ) -- VAL 17  (N  ) : 2.85 A
+MET 1   (O  ) -- VAL 17  (O  ) : 3.04 A
+GLN 2   (N  ) -- HOH 86  (O  ) : 3.01 A
+GLN 2   (O  ) -- ILE 3   (N  ) : 2.26 A
+GLN 2   (O  ) -- GLU 64  (N  ) : 2.78 A
+ILE 3   (N  ) -- LEU 15  (O  ) : 3.05 A
+ILE 3   (O  ) -- PHE 4   (N  ) : 2.30 A
+ILE 3   (O  ) -- LEU 15  (N  ) : 3.05 A
+ILE 3   (O  ) -- LEU 15  (O  ) : 3.46 A
+PHE 4   (N  ) -- SER 65  (O  ) : 2.86 A
+PHE 4   (O  ) -- VAL 5   (N  ) : 2.26 A
+PHE 4   (O  ) -- LEU 67  (N  ) : 2.82 A
+VAL 5   (N  ) -- LYS 6   (N  ) : 3.31 A
+VAL 5   (N  ) -- ILE 13  (O  ) : 2.79 A
+VAL 5   (O  ) -- LYS 6   (N  ) : 2.28 A
+VAL 5   (O  ) -- ILE 13  (N  ) : 2.72 A
+LYS 6   (N  ) -- LEU 67  (O  ) : 2.90 A
+LYS 6   (O  ) -- THR 7   (N  ) : 2.28 A
+LYS 6   (O  ) -- LEU 69  (N  ) : 2.93 A
+LYS 6   (NZ ) -- HOH 112 (O  ) : 3.38 A
+THR 7   (N  ) -- LYS 11  (O  ) : 2.91 A
+THR 7   (O  ) -- LEU 8   (N  ) : 2.25 A
+THR 7   (O  ) -- THR 9   (N  ) : 3.15 A
+THR 7   (O  ) -- GLY 10  (N  ) : 3.37 A
+THR 7   (O  ) -- HOH 107 (O  ) : 2.72 A
+THR 7   (OG1) -- LEU 8   (N  ) : 3.25 A
+THR 7   (OG1) -- THR 9   (N  ) : 3.26 A
+THR 7   (OG1) -- THR 9   (OG1) : 3.19 A
+THR 7   (OG1) -- LYS 11  (O  ) : 3.08 A
+LEU 8   (N  ) -- THR 9   (N  ) : 2.72 A
+LEU 8   (N  ) -- HOH 79  (O  ) : 2.71 A
+LEU 8   (O  ) -- THR 9   (N  ) : 2.28 A
+LEU 8   (O  ) -- HOH 92  (O  ) : 3.07 A
+THR 9   (N  ) -- GLY 10  (N  ) : 2.70 A
+THR 9   (O  ) -- GLY 10  (N  ) : 2.20 A
+THR 9   (O  ) -- LYS 11  (N  ) : 3.42 A
+GLY 10  (N  ) -- LYS 11  (N  ) : 2.74 A
+GLY 10  (N  ) -- HOH 107 (O  ) : 3.06 A
+GLY 10  (N  ) -- HOH 133 (O  ) : 3.49 A
+GLY 10  (O  ) -- LYS 11  (N  ) : 2.25 A
+LYS 11  (N  ) -- THR 12  (N  ) : 3.49 A
+LYS 11  (O  ) -- THR 12  (N  ) : 2.28 A
+LYS 11  (NZ ) -- GLU 34  (OE2) : 3.35 A
+LYS 11  (NZ ) -- HOH 131 (O  ) : 2.98 A
+THR 12  (N  ) -- ILE 13  (N  ) : 3.47 A
+THR 12  (N  ) -- HOH 90  (O  ) : 2.99 A
+THR 12  (O  ) -- ILE 13  (N  ) : 2.30 A
+THR 12  (O  ) -- HOH 131 (O  ) : 2.60 A
+THR 12  (OG1) -- HOH 91  (O  ) : 2.83 A
+ILE 13  (O  ) -- THR 14  (N  ) : 2.24 A
+THR 14  (O  ) -- LEU 15  (N  ) : 2.25 A
+THR 14  (O  ) -- LYS 33  (NZ ) : 3.41 A
+LEU 15  (O  ) -- GLU 16  (N  ) : 2.29 A
+GLU 16  (N  ) -- VAL 17  (N  ) : 3.33 A
+GLU 16  (N  ) -- HOH 88  (O  ) : 2.97 A
+GLU 16  (O  ) -- VAL 17  (N  ) : 2.29 A
+GLU 16  (O  ) -- LYS 29  (NZ ) : 2.68 A
+VAL 17  (O  ) -- GLU 18  (N  ) : 2.29 A
+GLU 18  (N  ) -- ASP 21  (OD2) : 3.08 A
+GLU 18  (O  ) -- PRO 19  (N  ) : 2.22 A
+GLU 18  (O  ) -- SER 20  (N  ) : 2.93 A
+GLU 18  (O  ) -- ASP 21  (N  ) : 2.79 A
+GLU 18  (O  ) -- ASP 21  (OD2) : 3.49 A
+GLU 18  (OE1) -- HOH 98  (O  ) : 2.50 A
+PRO 19  (N  ) -- SER 20  (N  ) : 2.71 A
+PRO 19  (O  ) -- SER 20  (N  ) : 2.23 A
+PRO 19  (O  ) -- ASP 21  (N  ) : 3.33 A
+PRO 19  (O  ) -- LEU 56  (N  ) : 3.31 A
+PRO 19  (O  ) -- SER 57  (N  ) : 2.84 A
+PRO 19  (O  ) -- SER 57  (OG ) : 3.48 A
+SER 20  (N  ) -- ASP 21  (N  ) : 2.65 A
+SER 20  (O  ) -- ASP 21  (N  ) : 2.28 A
+SER 20  (O  ) -- HOH 85  (O  ) : 2.91 A
+SER 20  (OG ) -- HOH 83  (O  ) : 2.68 A
+SER 20  (OG ) -- HOH 127 (O  ) : 2.92 A
+ASP 21  (O  ) -- THR 22  (N  ) : 2.26 A
+ASP 21  (O  ) -- LEU 56  (N  ) : 2.98 A
+ASP 21  (OD1) -- ASN 25  (ND2) : 3.41 A
+ASP 21  (OD1) -- HOH 127 (O  ) : 2.71 A
+ASP 21  (OD2) -- ASN 25  (ND2) : 3.41 A
+ASP 21  (OD2) -- HOH 99  (O  ) : 2.84 A
+THR 22  (O  ) -- ILE 23  (N  ) : 2.30 A
+THR 22  (O  ) -- GLU 24  (N  ) : 3.39 A
+THR 22  (O  ) -- ASN 25  (N  ) : 3.10 A
+THR 22  (O  ) -- VAL 26  (N  ) : 3.12 A
+THR 22  (OG1) -- ASN 25  (N  ) : 3.19 A
+ILE 23  (N  ) -- GLU 24  (N  ) : 2.75 A
+ILE 23  (N  ) -- ASP 52  (O  ) : 3.42 A
+ILE 23  (N  ) -- ARG 54  (O  ) : 2.86 A
+ILE 23  (O  ) -- GLU 24  (N  ) : 2.23 A
+ILE 23  (O  ) -- GLU 24  (O  ) : 3.42 A
+ILE 23  (O  ) -- ASN 25  (N  ) : 3.28 A
+ILE 23  (O  ) -- VAL 26  (N  ) : 3.23 A
+ILE 23  (O  ) -- LYS 27  (N  ) : 3.00 A
+GLU 24  (N  ) -- ASN 25  (N  ) : 2.79 A
+GLU 24  (N  ) -- ASP 52  (O  ) : 2.91 A
+GLU 24  (O  ) -- ASN 25  (N  ) : 2.26 A
+GLU 24  (O  ) -- LYS 27  (N  ) : 3.40 A
+GLU 24  (O  ) -- ALA 28  (N  ) : 3.09 A
+GLU 24  (OE1) -- HOH 102 (O  ) : 3.29 A
+GLU 24  (OE2) -- HOH 102 (O  ) : 3.40 A
+ASN 25  (N  ) -- VAL 26  (N  ) : 2.79 A
+ASN 25  (O  ) -- VAL 26  (N  ) : 2.28 A
+ASN 25  (O  ) -- VAL 26  (O  ) : 3.30 A
+ASN 25  (O  ) -- LYS 27  (N  ) : 3.40 A
+ASN 25  (O  ) -- ALA 28  (N  ) : 3.12 A
+ASN 25  (O  ) -- LYS 29  (N  ) : 2.93 A
+VAL 26  (N  ) -- LYS 27  (N  ) : 2.78 A
+VAL 26  (O  ) -- LYS 27  (N  ) : 2.25 A
+VAL 26  (O  ) -- LYS 27  (O  ) : 3.50 A
+VAL 26  (O  ) -- ALA 28  (N  ) : 3.29 A
+VAL 26  (O  ) -- LYS 29  (N  ) : 3.06 A
+VAL 26  (O  ) -- ILE 30  (N  ) : 2.98 A
+LYS 27  (N  ) -- ALA 28  (N  ) : 2.79 A
+LYS 27  (O  ) -- ALA 28  (N  ) : 2.26 A
+LYS 27  (O  ) -- ILE 30  (N  ) : 3.31 A
+LYS 27  (O  ) -- GLN 31  (N  ) : 2.93 A
+LYS 27  (O  ) -- GLN 41  (NE2) : 3.04 A
+LYS 27  (NZ ) -- GLN 41  (O  ) : 3.24 A
+LYS 27  (NZ ) -- ASP 52  (OD2) : 2.90 A
+LYS 27  (NZ ) -- HOH 96  (O  ) : 2.58 A
+LYS 27  (NZ ) -- HOH 104 (O  ) : 3.36 A
+ALA 28  (N  ) -- LYS 29  (N  ) : 2.82 A
+ALA 28  (O  ) -- LYS 29  (N  ) : 2.26 A
+ALA 28  (O  ) -- ILE 30  (N  ) : 3.42 A
+ALA 28  (O  ) -- GLN 31  (N  ) : 3.22 A
+ALA 28  (O  ) -- ASP 32  (N  ) : 2.87 A
+ALA 28  (O  ) -- HOH 94  (O  ) : 2.93 A
+LYS 29  (N  ) -- ILE 30  (N  ) : 2.77 A
+LYS 29  (O  ) -- ILE 30  (N  ) : 2.26 A
+LYS 29  (O  ) -- ILE 30  (O  ) : 3.47 A
+LYS 29  (O  ) -- GLN 31  (N  ) : 3.46 A
+LYS 29  (O  ) -- ASP 32  (N  ) : 3.36 A
+LYS 29  (O  ) -- LYS 33  (N  ) : 2.91 A
+LYS 29  (NZ ) -- HOH 99  (O  ) : 3.43 A
+ILE 30  (N  ) -- GLN 31  (N  ) : 2.74 A
+ILE 30  (O  ) -- GLN 31  (N  ) : 2.24 A
+ILE 30  (O  ) -- GLN 31  (O  ) : 3.31 A
+ILE 30  (O  ) -- ASP 32  (N  ) : 3.47 A
+ILE 30  (O  ) -- LYS 33  (N  ) : 3.30 A
+ILE 30  (O  ) -- GLU 34  (N  ) : 2.91 A
+GLN 31  (N  ) -- ASP 32  (N  ) : 2.78 A
+GLN 31  (O  ) -- ASP 32  (N  ) : 2.23 A
+GLN 31  (O  ) -- ASP 32  (O  ) : 3.34 A
+GLN 31  (O  ) -- LYS 33  (N  ) : 3.19 A
+GLN 31  (O  ) -- GLY 35  (N  ) : 2.74 A
+GLN 31  (OE1) -- HOH 94  (O  ) : 3.48 A
+GLN 31  (NE2) -- HOH 77  (O  ) : 3.34 A
+GLN 31  (NE2) -- HOH 105 (O  ) : 3.14 A
+ASP 32  (N  ) -- LYS 33  (N  ) : 2.84 A
+ASP 32  (O  ) -- LYS 33  (N  ) : 2.25 A
+LYS 33  (N  ) -- GLU 34  (N  ) : 2.93 A
+LYS 33  (O  ) -- GLU 34  (N  ) : 2.24 A
+LYS 33  (O  ) -- HOH 124 (O  ) : 3.47 A
+GLU 34  (N  ) -- GLY 35  (N  ) : 2.72 A
+GLU 34  (O  ) -- GLY 35  (N  ) : 2.25 A
+GLU 34  (O  ) -- ILE 36  (N  ) : 3.42 A
+GLU 34  (O  ) -- HOH 117 (O  ) : 2.65 A
+GLY 35  (N  ) -- ILE 36  (N  ) : 2.80 A
+GLY 35  (O  ) -- ILE 36  (N  ) : 2.28 A
+GLY 35  (O  ) -- PRO 37  (N  ) : 3.41 A
+GLY 35  (O  ) -- HOH 105 (O  ) : 2.47 A
+ILE 36  (N  ) -- PRO 37  (N  ) : 3.49 A
+ILE 36  (O  ) -- PRO 37  (N  ) : 2.25 A
+ILE 36  (O  ) -- PRO 37  (O  ) : 3.34 A
+ILE 36  (O  ) -- PRO 38  (N  ) : 3.45 A
+ILE 36  (O  ) -- GLN 41  (NE2) : 2.97 A
+PRO 37  (O  ) -- PRO 38  (N  ) : 2.26 A
+PRO 37  (O  ) -- ASP 39  (N  ) : 3.10 A
+PRO 37  (O  ) -- GLN 40  (N  ) : 2.96 A
+PRO 38  (N  ) -- ASP 39  (N  ) : 2.80 A
+PRO 38  (N  ) -- HOH 80  (O  ) : 3.40 A
+PRO 38  (O  ) -- ASP 39  (N  ) : 2.23 A
+PRO 38  (O  ) -- GLN 40  (N  ) : 3.10 A
+PRO 38  (O  ) -- GLN 41  (N  ) : 3.11 A
+PRO 38  (O  ) -- HOH 96  (O  ) : 2.83 A
+ASP 39  (N  ) -- GLN 40  (N  ) : 2.71 A
+ASP 39  (N  ) -- HOH 80  (O  ) : 2.82 A
+ASP 39  (O  ) -- GLN 40  (N  ) : 2.25 A
+ASP 39  (O  ) -- ARG 72  (NE ) : 3.16 A
+ASP 39  (OD1) -- GLN 40  (N  ) : 3.17 A
+GLN 40  (N  ) -- GLN 41  (N  ) : 2.73 A
+GLN 40  (O  ) -- GLN 41  (N  ) : 2.23 A
+GLN 40  (O  ) -- ARG 72  (N  ) : 2.72 A
+GLN 41  (O  ) -- ARG 42  (N  ) : 2.22 A
+GLN 41  (O  ) -- ARG 72  (NH2) : 3.01 A
+GLN 41  (O  ) -- HOH 96  (O  ) : 3.10 A
+ARG 42  (N  ) -- LEU 43  (N  ) : 3.38 A
+ARG 42  (N  ) -- VAL 70  (O  ) : 2.82 A
+ARG 42  (O  ) -- LEU 43  (N  ) : 2.32 A
+ARG 42  (O  ) -- HIS 68  (O  ) : 3.49 A
+ARG 42  (O  ) -- VAL 70  (N  ) : 2.81 A
+ARG 42  (O  ) -- VAL 70  (O  ) : 3.26 A
+ARG 42  (NE ) -- GLN 49  (NE2) : 2.75 A
+LEU 43  (N  ) -- HOH 104 (O  ) : 2.90 A
+LEU 43  (O  ) -- ILE 44  (N  ) : 2.28 A
+LEU 43  (O  ) -- LEU 50  (N  ) : 2.83 A
+ILE 44  (N  ) -- HIS 68  (O  ) : 2.79 A
+ILE 44  (O  ) -- PHE 45  (N  ) : 2.26 A
+ILE 44  (O  ) -- HIS 68  (N  ) : 2.79 A
+PHE 45  (N  ) -- ALA 46  (N  ) : 3.40 A
+PHE 45  (N  ) -- LYS 48  (O  ) : 3.07 A
+PHE 45  (O  ) -- ALA 46  (N  ) : 2.26 A
+PHE 45  (O  ) -- ALA 46  (O  ) : 3.28 A
+PHE 45  (O  ) -- GLY 47  (N  ) : 3.04 A
+PHE 45  (O  ) -- LYS 48  (N  ) : 2.84 A
+PHE 45  (O  ) -- LYS 48  (O  ) : 3.33 A
+ALA 46  (N  ) -- GLY 47  (N  ) : 2.77 A
+ALA 46  (N  ) -- HOH 78  (O  ) : 2.99 A
+ALA 46  (N  ) -- HOH 103 (O  ) : 3.40 A
+ALA 46  (O  ) -- GLY 47  (N  ) : 2.24 A
+ALA 46  (O  ) -- LYS 48  (N  ) : 3.28 A
+ALA 46  (O  ) -- LYS 48  (NZ ) : 3.38 A
+GLY 47  (N  ) -- LYS 48  (N  ) : 2.82 A
+GLY 47  (N  ) -- HOH 103 (O  ) : 2.83 A
+GLY 47  (O  ) -- LYS 48  (N  ) : 2.24 A
+LYS 48  (O  ) -- GLN 49  (N  ) : 2.23 A
+LYS 48  (NZ ) -- HOH 100 (O  ) : 3.34 A
+GLN 49  (N  ) -- LEU 50  (N  ) : 3.44 A
+GLN 49  (O  ) -- LEU 50  (N  ) : 2.26 A
+LEU 50  (O  ) -- GLU 51  (N  ) : 2.26 A
+LEU 50  (O  ) -- HOH 104 (O  ) : 2.76 A
+GLU 51  (N  ) -- TYR 59  (OH ) : 2.96 A
+GLU 51  (O  ) -- ASP 52  (N  ) : 2.21 A
+GLU 51  (O  ) -- GLY 53  (N  ) : 3.26 A
+GLU 51  (O  ) -- ARG 54  (N  ) : 3.28 A
+GLU 51  (OE1) -- HOH 125 (O  ) : 3.49 A
+GLU 51  (OE2) -- HOH 111 (O  ) : 2.72 A
+ASP 52  (N  ) -- GLY 53  (N  ) : 3.01 A
+ASP 52  (N  ) -- HOH 125 (O  ) : 3.30 A
+ASP 52  (O  ) -- GLY 53  (N  ) : 2.27 A
+ASP 52  (O  ) -- HOH 102 (O  ) : 3.09 A
+ASP 52  (OD1) -- HOH 108 (O  ) : 2.52 A
+GLY 53  (N  ) -- ARG 54  (N  ) : 2.80 A
+GLY 53  (N  ) -- HOH 125 (O  ) : 2.77 A
+GLY 53  (O  ) -- ARG 54  (N  ) : 2.23 A
+GLY 53  (O  ) -- HOH 118 (O  ) : 2.96 A
+ARG 54  (O  ) -- THR 55  (N  ) : 2.25 A
+THR 55  (N  ) -- ASP 58  (OD1) : 3.09 A
+THR 55  (O  ) -- LEU 56  (N  ) : 2.25 A
+THR 55  (O  ) -- LEU 56  (O  ) : 3.43 A
+THR 55  (O  ) -- SER 57  (N  ) : 3.34 A
+THR 55  (O  ) -- ASP 58  (N  ) : 3.11 A
+THR 55  (OG1) -- SER 57  (OG ) : 2.96 A
+THR 55  (OG1) -- ASP 58  (N  ) : 3.26 A
+THR 55  (OG1) -- ASP 58  (OD1) : 3.38 A
+THR 55  (OG1) -- ASP 58  (OD2) : 3.47 A
+LEU 56  (N  ) -- SER 57  (N  ) : 2.73 A
+LEU 56  (O  ) -- SER 57  (N  ) : 2.25 A
+LEU 56  (O  ) -- ASP 58  (N  ) : 3.16 A
+LEU 56  (O  ) -- TYR 59  (N  ) : 3.10 A
+LEU 56  (O  ) -- ASN 60  (N  ) : 3.35 A
+LEU 56  (O  ) -- ILE 61  (N  ) : 3.42 A
+SER 57  (N  ) -- ASP 58  (N  ) : 2.76 A
+SER 57  (O  ) -- ASP 58  (N  ) : 2.27 A
+SER 57  (O  ) -- TYR 59  (N  ) : 3.16 A
+SER 57  (O  ) -- ASN 60  (N  ) : 2.88 A
+SER 57  (OG ) -- ASP 58  (N  ) : 3.19 A
+SER 57  (OG ) -- HOH 95  (O  ) : 2.67 A
+ASP 58  (N  ) -- TYR 59  (N  ) : 2.76 A
+ASP 58  (O  ) -- TYR 59  (N  ) : 2.22 A
+ASP 58  (OD2) -- HOH 95  (O  ) : 3.10 A
+TYR 59  (N  ) -- ASN 60  (N  ) : 2.78 A
+TYR 59  (O  ) -- ASN 60  (N  ) : 2.23 A
+TYR 59  (O  ) -- ASN 60  (O  ) : 3.31 A
+TYR 59  (O  ) -- ILE 61  (N  ) : 3.31 A
+TYR 59  (O  ) -- HOH 100 (O  ) : 2.94 A
+ASN 60  (N  ) -- ILE 61  (N  ) : 2.84 A
+ASN 60  (O  ) -- ILE 61  (N  ) : 2.24 A
+ASN 60  (O  ) -- HOH 106 (O  ) : 3.41 A
+ILE 61  (N  ) -- GLN 62  (N  ) : 3.38 A
+ILE 61  (O  ) -- GLN 62  (N  ) : 2.29 A
+ILE 61  (O  ) -- HOH 81  (O  ) : 2.78 A
+GLN 62  (N  ) -- SER 65  (OG ) : 3.23 A
+GLN 62  (N  ) -- HOH 101 (O  ) : 3.27 A
+GLN 62  (O  ) -- LYS 63  (N  ) : 2.26 A
+GLN 62  (O  ) -- LYS 63  (O  ) : 3.04 A
+GLN 62  (O  ) -- GLU 64  (N  ) : 3.44 A
+GLN 62  (O  ) -- SER 65  (N  ) : 3.23 A
+GLN 62  (O  ) -- SER 65  (OG ) : 2.51 A
+GLN 62  (NE2) -- HOH 87  (O  ) : 3.48 A
+LYS 63  (N  ) -- HOH 87  (O  ) : 3.11 A
+LYS 63  (O  ) -- GLU 64  (N  ) : 2.26 A
+LYS 63  (O  ) -- SER 65  (N  ) : 3.31 A
+GLU 64  (N  ) -- SER 65  (N  ) : 2.76 A
+GLU 64  (O  ) -- SER 65  (N  ) : 2.26 A
+GLU 64  (O  ) -- SER 65  (O  ) : 3.32 A
+GLU 64  (OE1) -- HOH 109 (O  ) : 3.13 A
+GLU 64  (OE2) -- HOH 86  (O  ) : 3.00 A
+SER 65  (O  ) -- THR 66  (N  ) : 2.22 A
+SER 65  (OG ) -- HOH 101 (O  ) : 2.65 A
+THR 66  (N  ) -- LEU 67  (N  ) : 3.49 A
+THR 66  (O  ) -- LEU 67  (N  ) : 2.29 A
+THR 66  (O  ) -- HOH 84  (O  ) : 2.79 A
+LEU 67  (O  ) -- HIS 68  (N  ) : 2.27 A
+HIS 68  (N  ) -- LEU 69  (N  ) : 3.50 A
+HIS 68  (O  ) -- LEU 69  (N  ) : 2.26 A
+LEU 69  (N  ) -- VAL 70  (N  ) : 3.40 A
+LEU 69  (O  ) -- VAL 70  (N  ) : 2.26 A
+LEU 69  (O  ) -- HOH 79  (O  ) : 2.83 A
+VAL 70  (O  ) -- LEU 71  (N  ) : 2.26 A
+LEU 71  (O  ) -- ARG 72  (N  ) : 2.20 A
+ARG 72  (N  ) -- LEU 73  (N  ) : 3.23 A
+ARG 72  (O  ) -- LEU 73  (N  ) : 2.28 A
+ARG 72  (NH2) -- HOH 96  (O  ) : 3.35 A
+LEU 73  (O  ) -- ARG 74  (N  ) : 2.28 A
+LEU 73  (O  ) -- GLY 75  (N  ) : 3.49 A
+ARG 74  (N  ) -- GLY 75  (N  ) : 3.19 A
+ARG 74  (O  ) -- GLY 75  (N  ) : 2.28 A
+GLY 75  (N  ) -- GLY 76  (N  ) : 3.49 A
+GLY 75  (O  ) -- GLY 76  (N  ) : 2.26 A
+GLY 75  (O  ) -- HOH 120 (O  ) : 2.93 A
+HOH 78  (O  ) -- HOH 84  (O  ) : 2.56 A
+HOH 78  (O  ) -- HOH 103 (O  ) : 3.26 A
+HOH 85  (O  ) -- HOH 119 (O  ) : 3.28 A
+HOH 90  (O  ) -- HOH 131 (O  ) : 3.38 A
+HOH 94  (O  ) -- HOH 128 (O  ) : 3.24 A
+HOH 97  (O  ) -- HOH 98  (O  ) : 2.58 A
+HOH 99  (O  ) -- HOH 116 (O  ) : 2.88 A
+HOH 101 (O  ) -- HOH 106 (O  ) : 3.29 A
+HOH 113 (O  ) -- HOH 130 (O  ) : 2.60 A
+HOH 114 (O  ) -- HOH 122 (O  ) : 2.15 A
+HOH 117 (O  ) -- HOH 124 (O  ) : 3.49 A
+HOH 121 (O  ) -- HOH 128 (O  ) : 2.11 A
+
+Total potential hydrogen bonds: 328

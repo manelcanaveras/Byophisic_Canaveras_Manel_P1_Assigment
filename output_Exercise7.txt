@@ -1,0 +1,40 @@
+Calculating distances between GLY 10 and LYS 11:
+
+Atom N    <--> Atom N    : 2.74 A
+Atom N    <--> Atom CA   : 4.19 A
+Atom N    <--> Atom C    : 4.87 A
+Atom N    <--> Atom O    : 4.63 A
+Atom N    <--> Atom CB   : 4.89 A
+Atom N    <--> Atom CG   : 6.41 A
+Atom N    <--> Atom CD   : 7.29 A
+Atom N    <--> Atom CE   : 8.64 A
+Atom N    <--> Atom NZ   : 9.38 A
+Atom CA   <--> Atom N    : 2.39 A
+Atom CA   <--> Atom CA   : 3.77 A
+Atom CA   <--> Atom C    : 4.42 A
+Atom CA   <--> Atom O    : 4.45 A
+Atom CA   <--> Atom CB   : 4.84 A
+Atom CA   <--> Atom CG   : 6.22 A
+Atom CA   <--> Atom CD   : 7.33 A
+Atom CA   <--> Atom CE   : 8.57 A
+Atom CA   <--> Atom NZ   : 9.15 A
+Atom C    <--> Atom N    : 1.31 A
+Atom C    <--> Atom CA   : 2.43 A
+Atom C    <--> Atom C    : 3.22 A
+Atom C    <--> Atom O    : 3.58 A
+Atom C    <--> Atom CB   : 3.66 A
+Atom C    <--> Atom CG   : 4.91 A
+Atom C    <--> Atom CD   : 6.13 A
+Atom C    <--> Atom CE   : 7.29 A
+Atom C    <--> Atom NZ   : 7.77 A
+Atom O    <--> Atom N    : 2.25 A
+Atom O    <--> Atom CA   : 2.79 A
+Atom O    <--> Atom C    : 3.54 A
+Atom O    <--> Atom O    : 4.20 A
+Atom O    <--> Atom CB   : 4.13 A
+Atom O    <--> Atom CG   : 5.10 A
+Atom O    <--> Atom CD   : 6.45 A
+Atom O    <--> Atom CE   : 7.41 A
+Atom O    <--> Atom NZ   : 7.75 A
+
+Total distances calculated: 36
