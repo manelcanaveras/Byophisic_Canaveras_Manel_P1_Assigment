@@ -4,7 +4,7 @@ from Bio.PDB import PDBParser, PDBList
 
 # Command-line arguments configuration
 parser = argparse.ArgumentParser(description="Download and parse a protein structure directly from the PDB.")
-parser.add_argument("-id", "--pdbid", required=True, help="4-letter PDB code (e.g., 1ubq or 1crn)")
+parser.add_argument("-id", "--pdbid", required=True, help="4-letter PDB code")
 
 args = parser.parse_args()
 pdb_id = args.pdbid.lower()
